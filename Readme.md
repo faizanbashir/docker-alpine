@@ -2,4 +2,4 @@
 
 # Docker Alpine #
 
-Docker Alpnie image with common packages installed.
+Docker Alpine image with common packages installed.
